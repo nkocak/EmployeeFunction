@@ -1,0 +1,7 @@
+public class Employee implements Comparable<Employee> 
+ {
+    /* instance variables */
+    private String firstName;
+    private String secondName;
+    private String employeeNumber;
+    private int sales
